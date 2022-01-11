@@ -1,6 +1,6 @@
 # SCM_onboard_BitBucket
 
-Update configuration section of the script with speciic login credentails and url for BitBucket and IQ server
+Update configuration section of the script with specific login credentails and url for BitBucket and IQ server
 Tokens are acceptable
 
 ##--------**Configuration**-------------------------------------------------------------------------------->
